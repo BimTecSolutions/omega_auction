@@ -42483,7 +42483,7 @@ s===$&&A.a()
 s.BL()
 this.aB()},
 N(a){var s=this,r=null
-return A.azr(r,r,A.bR(a,r,t.w).w.a.a<1200?new A.I0(r):new A.cp(B.mW,new A.OM(A.iD(A.b([s.xn("falconeri",s.w,B.eF,s.CW,s.cx,s.cy),s.xn("intimissimi",s.f,B.Eg,s.Q,s.as,s.at),s.xn("tezenis",s.r,B.hi,s.ax,s.ay,s.ch),s.xn("calzedonia",s.e,B.Mg,s.x,s.y,s.z)],t.E),B.a0,B.eE,B.ai,0),r),r),r)},
+return A.azr(r,r,A.bR(a,r,t.w).w.a.a<900?new A.I0(r):new A.cp(B.mW,new A.OM(A.iD(A.b([s.xn("falconeri",s.w,B.eF,s.CW,s.cx,s.cy),s.xn("intimissimi",s.f,B.Eg,s.Q,s.as,s.at),s.xn("tezenis",s.r,B.hi,s.ax,s.ay,s.ch),s.xn("calzedonia",s.e,B.Mg,s.x,s.y,s.z)],t.E),B.a0,B.eE,B.ai,0),r),r),r)},
 xn(a,b,c,d,e,f){var s,r,q=this,p=null,o=B.d.eM(5e5-b,0,5e5),n=B.d.eM(o/5e5,0,1),m=A.D(B.j,c,0.3)
 m.toString
 s=A.e1(15)
@@ -42681,7 +42681,7 @@ apN(){this.ae(new A.av2(this))},
 ar6(){this.ae(new A.av3(this))},
 N(a1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=this,b=null,a=t.w,a0=A.bR(a1,b,a).w
 a=A.bR(a1,b,a).w
-s=a0.a.a<700||a.a.b<700
+s=a0.a.a<500||a.a.b<600
 if(c.e.length===0)a=A.hJ(A.a1k(),b,b)
 else{if(!s){a=A.b([B.mp,B.m5],t.t_)
 a0=A.e1(30)
